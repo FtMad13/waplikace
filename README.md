@@ -1,2 +1,0 @@
-# waplikace
-Created with CodeSandbox
